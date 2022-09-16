@@ -1,11 +1,11 @@
-## 💜 Olá, meu nome é <strong>{João Pedro}!</strong>
+## 💜 Olá, meu nome é <strong>João Pedro!</strong>
 
 🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA, com foco em fullstack
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
-
+##  Informações sobre minha conta GitHub 💫
  <div>
    <a href="https://github.com/jplimasil">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplimasil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
