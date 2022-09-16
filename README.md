@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>João Pedro!</strong>
 
-🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA, com foco em fullstack
+🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA, com foco em Frontend
 
 
 ## 🚀 Minhas Skills !!
