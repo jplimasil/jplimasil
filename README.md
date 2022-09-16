@@ -5,11 +5,6 @@
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
-##  Informações sobre minha conta GitHub 💫
- <div>
-   <a href="https://github.com/jplimasil">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplimasil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimasil&layout=compact&langs_count=6&theme=radical"/>
 
 ## 🚀 Minhas Skills !!
 
@@ -24,7 +19,15 @@
  
  <br>
  
-  ### Minhas redes !!
+ ##  Informações sobre minha conta GitHub 💫
+ <div>
+   <a href="https://github.com/jplimasil">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplimasil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimasil&layout=compact&langs_count=6&theme=radical"/>
+    
+<br>
+    
+### Minhas redes !!
  
 <div> 
   <a href="https://instagram.com/jplimasil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
