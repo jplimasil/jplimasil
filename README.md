@@ -2,8 +2,6 @@
 
 🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA, com foco em fullstack
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 
 ## 🚀 Minhas Skills !!
 
