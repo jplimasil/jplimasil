@@ -1,11 +1,17 @@
-## Bem-vindo(a) ao perfil do Jão 😁
+## 💜 Olá, meu nome é <strong>{João Pedro}!</strong>
+
+🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA, com foco em fullstack
+
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
+----
 
  <div>
    <a href="https://github.com/jplimasil">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplimasil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimasil&layout=compact&langs_count=6&theme=radical"/>
 
-### Minhas skills !!
+## 🚀 Minhas Skills !!
 
 </div>
 <div style="display: inline_block"><br>
