@@ -3,7 +3,7 @@
 🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA, com foco em Frontend
 
 
-## 🚀 Minhas Skills !!
+## 🚀 Minhas Skills!!
 
 </div>
 <div style="display: inline_block"><br>
