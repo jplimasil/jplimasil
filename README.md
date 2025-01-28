@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>João Pedro!</strong>
 
-🔭 Estudante de Analise e desenvolvimente de sistemas - UNESA
+🔭 Sou movido pela curiosidade e pelo desejo de resolver problemas reais através da tecnologia. Cada linha de código é uma oportunidade de aprendizado e impacto.
 
 
 ## 🚀 Minhas Skills!!
